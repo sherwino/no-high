@@ -24,8 +24,8 @@ export default function Home() {
                 <Image
                   src="/no-high-stacked.png"
                   alt="No High Logo"
-                  width={800}
-                  height={400}
+                  width={996}
+                  height={636}
                   className="w-full h-auto object-contain"
                   priority
                 />
@@ -38,8 +38,8 @@ export default function Home() {
                 <Image
                   src="/no-high-text-image.png"
                   alt="Imagination Takes Time"
-                  width={1000}
-                  height={200}
+                  width={1814}
+                  height={335}
                   className="w-full h-auto object-contain"
                   priority
                 />
