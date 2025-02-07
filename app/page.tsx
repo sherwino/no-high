@@ -22,7 +22,7 @@ export default function Home() {
             <div className="w-full flex justify-center mt-[0%] mb-[-5%]">
               <div className="w-[90%] min-w-[300px]">
                 <Image
-                  src="/alpha/no-high-text-heading.png"
+                  src="/no-high-text-heading.png"
                   alt="No High Logo"
                   width={996}
                   height={436}
@@ -36,7 +36,7 @@ export default function Home() {
             <div className="w-full flex justify-center mt-[-80%] mb-[3%]">
               <div className="w-[90%] min-w-[400px]">
                 <Image
-                  src="/alpha/no-high-sub-heading.png"
+                  src="/no-high-sub-heading.png"
                   alt="Imagination Takes Time"
                   width={1814}
                   height={335}
