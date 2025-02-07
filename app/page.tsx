@@ -19,13 +19,13 @@ export default function Home() {
         <div className="w-full max-w-[1920px] aspect-video relative px-4">
           <div className="absolute inset-0 flex flex-col justify-between items-center">
             {/* Top Logo */}
-            <div className="w-full flex justify-center mt-[10%]">
-              <div className="w-[50%] min-w-[300px]">
+            <div className="w-full flex justify-center mt-[0%] mb-[-5%]">
+              <div className="w-[90%] min-w-[300px]">
                 <Image
-                  src="/no-high-stacked.png"
+                  src="/alpha/no-high-text-heading.png"
                   alt="No High Logo"
                   width={996}
-                  height={636}
+                  height={436}
                   className="w-full h-auto object-contain"
                   priority
                 />
@@ -33,10 +33,10 @@ export default function Home() {
             </div>
 
             {/* Bottom Text Image */}
-            <div className="w-full flex justify-center mb-[10%]">
-              <div className="w-[70%] min-w-[400px]">
+            <div className="w-full flex justify-center mt-[-80%] mb-[3%]">
+              <div className="w-[90%] min-w-[400px]">
                 <Image
-                  src="/no-high-text-image.png"
+                  src="/alpha/no-high-sub-heading.png"
                   alt="Imagination Takes Time"
                   width={1814}
                   height={335}
