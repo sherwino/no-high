@@ -34,7 +34,7 @@ export default function Home() {
 
             {/* Bottom Text Image */}
             <div className="w-full flex justify-center mt-[-80%] mb-[3%]">
-              <div className="w-[90%] min-w-[400px]">
+              <div className="w-[85%] min-w-[400px]">
                 <Image
                   src="/no-high-sub-heading.png"
                   alt="Imagination Takes Time"
